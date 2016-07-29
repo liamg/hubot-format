@@ -1,0 +1,24 @@
+{
+  "name": "hubot-format",
+  "version": "1.0.0",
+  "description": "Tidy up ugly whitespace formatted messages in slack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamg/hubot-format.git"
+  },
+  "keywords": [
+    "tidy",
+    "format",
+    "slack"
+  ],
+  "author": "Liam Galvin <liam@liam-galvin.co.uk> (https://github.com/liamg)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamg/hubot-format/issues"
+  },
+  "homepage": "https://github.com/liamg/hubot-format#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
